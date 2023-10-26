@@ -7,4 +7,4 @@ INSERT INTO bears (name, age, sex, color, temperament, alive) VALUES
   ('Melissa', 7, 'F', 'Red', 'Sweet', 0),
   ('Grinch', 2, 'M', 'Green', 'Sly', 1),
   ('Wendy', 3, 'F', 'Yellow', 'Energetic', 1),
-  ('unnamed', NULL, NULL, NULL, NULL, 1);
+  (NULL, NULL, NULL, NULL, NULL, 1);
